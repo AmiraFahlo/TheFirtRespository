@@ -1,1 +1,7 @@
- amira
+ red
+green
+yallow
+gray
+black
+blue
+
